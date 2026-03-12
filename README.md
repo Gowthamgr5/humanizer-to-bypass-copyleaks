@@ -48,3 +48,7 @@ Finally, click "Upload a skill"
 ```
 npx skills add Gowthamgr5/Humanizer-to-bypass-copyleaks
 ```
+
+
+## Support
+If this skill helped you, please ⭐ star the repo — it helps others find it.
